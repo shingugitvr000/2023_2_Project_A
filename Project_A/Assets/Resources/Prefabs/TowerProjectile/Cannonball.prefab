@@ -77,7 +77,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  damagedAmount: 0
+  damagedAmount: 50
 --- !u!1 &3044380368184590097
 GameObject:
   m_ObjectHideFlags: 0
